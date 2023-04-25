@@ -1,4 +1,4 @@
-# Python 3 server example which exicutes a function based on a POST request
+# Python 3 server example which executes a function based on a POST request
 import tool
 
 from http.server import BaseHTTPRequestHandler, HTTPServer
